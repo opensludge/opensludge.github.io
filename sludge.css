@@ -1,0 +1,11 @@
+body {
+	background: url(gfx/lumpy.gif) #FFFFFF;
+	color: #000000;
+/*	text-decoration: none;
+	font-family: Georgia, Times, serif;
+	font-size: 16px;	*/
+}
+a {
+    font-weight: bold;
+    text-decoration: underline;
+}

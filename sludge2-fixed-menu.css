@@ -1,0 +1,11 @@
+#menuColumn {
+	width:150px;
+	padding-top:0px;
+}
+
+#menuColumn .fixed{
+	width:150px;
+	position:fixed;
+	top:242px;
+	left:50px;
+}
