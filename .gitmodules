@@ -1,0 +1,3 @@
+[submodule "opensludge"]
+	path = opensludge
+	url = https://github.com/opensludge/opensludge.git
